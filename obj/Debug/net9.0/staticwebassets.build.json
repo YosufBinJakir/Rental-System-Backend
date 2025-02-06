@@ -1,0 +1,3524 @@
+{
+  "Version": 1,
+  "Hash": "hSnJMFgUvAQ6cjewtSyu4ylichR5WgywzkZUokU+VuE=",
+  "Source": "RentalSystem",
+  "BasePath": "_content/RentalSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RentalSystem\\wwwroot",
+      "Source": "RentalSystem",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\0bd0ed3c-aa58-4117-9e42-597778893126_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.jpg",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/0bd0ed3c-aa58-4117-9e42-597778893126_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xxynm7dud7",
+      "Integrity": "W00YkrIx5JTdgFWI4i42rjSLIL7uTzb6T7MS3r4T0h8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\0bd0ed3c-aa58-4117-9e42-597778893126_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.jpg"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\20f5bfc9-c41e-456a-9693-c23dffded547_property_B5azm1LoS.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/20f5bfc9-c41e-456a-9693-c23dffded547_property_B5azm1LoS#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g3mpdzsqm8",
+      "Integrity": "HBXi7nGQHYoVHZzZE57VZjyhX6pzcsn9J4eT4+AhKR4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\20f5bfc9-c41e-456a-9693-c23dffded547_property_B5azm1LoS.webp"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\2473e450-80f7-4aa6-99cb-0dc06a3f8d03_cheap-apartment-for-rent-in-phu-my-hung-district-7-hung-vuong-2-building.jpeg",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/2473e450-80f7-4aa6-99cb-0dc06a3f8d03_cheap-apartment-for-rent-in-phu-my-hung-district-7-hung-vuong-2-building#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "steprsv3go",
+      "Integrity": "ULKNb6zSZj167NCCSUqEtw03S20TGYY4T3AJDRfJAYg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\2473e450-80f7-4aa6-99cb-0dc06a3f8d03_cheap-apartment-for-rent-in-phu-my-hung-district-7-hung-vuong-2-building.jpeg"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\25ff6e95-9954-43f8-961e-5d79c25b68f2_property_x2Wv4oorq.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/25ff6e95-9954-43f8-961e-5d79c25b68f2_property_x2Wv4oorq#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rl8uexe2m5",
+      "Integrity": "8SbLG0NYiqPjYVC4VTuFq3wFyyqjgZFpUvXY97sde5E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\25ff6e95-9954-43f8-961e-5d79c25b68f2_property_x2Wv4oorq.webp"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\2bb1daf1-1269-401d-ac64-5452c69f987f_9.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/2bb1daf1-1269-401d-ac64-5452c69f987f_9#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gugnybz43",
+      "Integrity": "Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\2bb1daf1-1269-401d-ac64-5452c69f987f_9.webp"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\3d69d8d2-50bb-436c-b511-55122b23fe12_images (6).jfif",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/3d69d8d2-50bb-436c-b511-55122b23fe12_images (6)#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1lf84x1iu2",
+      "Integrity": "5TjRUKgpZuN3j/oQdWXTm8dluhxfbZLWz2MV045S6VE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\3d69d8d2-50bb-436c-b511-55122b23fe12_images (6).jfif"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\4f7721e6-5e27-4cfc-8da7-a862c6cbdbbe_1665288343160.jfif",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/4f7721e6-5e27-4cfc-8da7-a862c6cbdbbe_1665288343160#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bf9w6tjksg",
+      "Integrity": "t4G8nn4rC/8uu+4jYJWYItrogVn3CwgPFvKKUj+odCs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\4f7721e6-5e27-4cfc-8da7-a862c6cbdbbe_1665288343160.jfif"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\573c5861-cf90-4c17-9f6d-f3bc5e8765ec_1665288343160.jfif",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/573c5861-cf90-4c17-9f6d-f3bc5e8765ec_1665288343160#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bf9w6tjksg",
+      "Integrity": "t4G8nn4rC/8uu+4jYJWYItrogVn3CwgPFvKKUj+odCs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\573c5861-cf90-4c17-9f6d-f3bc5e8765ec_1665288343160.jfif"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\57b3d32a-9b78-4dfb-9463-bddbce75fb38_modern-house.jpg",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/57b3d32a-9b78-4dfb-9463-bddbce75fb38_modern-house#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d37n6xyhx8",
+      "Integrity": "VzKDU30BCynU579bE6/eqQ82dq1mqgCLBgRKOpqjFG8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\57b3d32a-9b78-4dfb-9463-bddbce75fb38_modern-house.jpg"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\5954af60-bc44-4af1-9611-e2a7425530db_depositphotos_91206234-stock-photo-business-people-shaking-hands.jpg",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/5954af60-bc44-4af1-9611-e2a7425530db_depositphotos_91206234-stock-photo-business-people-shaking-hands#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cx93eo6ppc",
+      "Integrity": "AN2Ps3Qi8lSqcYNgJDER/hOiNC06ev32DPa8WcdmGME=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\5954af60-bc44-4af1-9611-e2a7425530db_depositphotos_91206234-stock-photo-business-people-shaking-hands.jpg"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\6533d87e-ed1b-496b-a77f-3b795ea7aa47_skysports-argentina-australia_5986016.jpg",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/6533d87e-ed1b-496b-a77f-3b795ea7aa47_skysports-argentina-australia_5986016#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nhvxx3lghr",
+      "Integrity": "qxrju2W+UZtw4TPZv/ZfLnJvvVgN/wqnSjVKazoYwos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\6533d87e-ed1b-496b-a77f-3b795ea7aa47_skysports-argentina-australia_5986016.jpg"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\73aaa04f-9044-4072-abef-96b84ae13ab7_original.avif",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/73aaa04f-9044-4072-abef-96b84ae13ab7_original#[.{fingerprint}]?.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qfwgr5d00y",
+      "Integrity": "yvje0PsIXkL7zWCQCQKVGoOzMsW0y0jCfh/J9Nw3n1s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\73aaa04f-9044-4072-abef-96b84ae13ab7_original.avif"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\7961dc5d-73b6-4486-8793-cff934d400c9_property_nHshfo6_1.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/7961dc5d-73b6-4486-8793-cff934d400c9_property_nHshfo6_1#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3uhurmu2wf",
+      "Integrity": "yyjAfumZN41v0HnS9TsEkaKhShUnBR9xHqDw7qZF7GM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\7961dc5d-73b6-4486-8793-cff934d400c9_property_nHshfo6_1.webp"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\7ad80db2-06dc-45f1-b310-cff672407287_property_X1cy6_fTt.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/7ad80db2-06dc-45f1-b310-cff672407287_property_X1cy6_fTt#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xr3rjjxgqy",
+      "Integrity": "I4V0FvL3C6CRXOLwvJ2+KMHLXhzdr7JVBsgPA8iyrMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\7ad80db2-06dc-45f1-b310-cff672407287_property_X1cy6_fTt.webp"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\80625250-6324-4d30-bfba-85bed9c834a3_images (2).jfif",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/80625250-6324-4d30-bfba-85bed9c834a3_images (2)#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f90t1nx2m7",
+      "Integrity": "k5OCiMTBNINBXXEYcDn0d4u0pNQsd/d310qonFtGlgs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\80625250-6324-4d30-bfba-85bed9c834a3_images (2).jfif"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\836ad207-8980-40f7-bcda-a184fa5558ae_n1.jpg",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/836ad207-8980-40f7-bcda-a184fa5558ae_n1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iqhwb5y2sv",
+      "Integrity": "yuBqAQ6xibVxsXcbt7gJOvlhsnYHBOgW5mWVUNdMvKY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\836ad207-8980-40f7-bcda-a184fa5558ae_n1.jpg"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\8d4fc72e-1ff9-4733-a6f7-ae46bac0f282_man1.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/8d4fc72e-1ff9-4733-a6f7-ae46bac0f282_man1#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h5xi4fm5t6",
+      "Integrity": "VTj7MrRjxilu4l3Wra3E+YRqNLcUP1UfrFknnelyjyw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\8d4fc72e-1ff9-4733-a6f7-ae46bac0f282_man1.webp"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\9ac5dbca-9e8a-410c-b550-31c8e79aa260_ai-generated-8490532_640.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/9ac5dbca-9e8a-410c-b550-31c8e79aa260_ai-generated-8490532_640#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eqohcl32wv",
+      "Integrity": "dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\9ac5dbca-9e8a-410c-b550-31c8e79aa260_ai-generated-8490532_640.webp"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\9b4708a8-0758-457d-bc7f-2d2072b3bbd0_ai-generated-8490532_640.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/9b4708a8-0758-457d-bc7f-2d2072b3bbd0_ai-generated-8490532_640#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eqohcl32wv",
+      "Integrity": "dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\9b4708a8-0758-457d-bc7f-2d2072b3bbd0_ai-generated-8490532_640.webp"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\9f2cb138-35c4-42c4-b1b1-9abd626abcb8_ai-generated-8490532_640.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/9f2cb138-35c4-42c4-b1b1-9abd626abcb8_ai-generated-8490532_640#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eqohcl32wv",
+      "Integrity": "dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\9f2cb138-35c4-42c4-b1b1-9abd626abcb8_ai-generated-8490532_640.webp"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\a0e5e1b7-a259-4959-bcac-b1953609fea1_images (1).jfif",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/a0e5e1b7-a259-4959-bcac-b1953609fea1_images (1)#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r9j7z94o67",
+      "Integrity": "T2R6yBXYv6JwBj5c57j5I+CDIpLIZQLmXTGgdQrw1mo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\a0e5e1b7-a259-4959-bcac-b1953609fea1_images (1).jfif"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\a35a401d-b71c-4cf6-8274-34aabf23e848_9.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/a35a401d-b71c-4cf6-8274-34aabf23e848_9#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gugnybz43",
+      "Integrity": "Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\a35a401d-b71c-4cf6-8274-34aabf23e848_9.webp"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\b66a0317-b0b2-4ae2-bca0-1ea910a6e352_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.jpg",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/b66a0317-b0b2-4ae2-bca0-1ea910a6e352_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xxynm7dud7",
+      "Integrity": "W00YkrIx5JTdgFWI4i42rjSLIL7uTzb6T7MS3r4T0h8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\b66a0317-b0b2-4ae2-bca0-1ea910a6e352_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.jpg"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\b6fb5d89-f9c2-42d3-a13a-e393730d103d_images.jfif",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/b6fb5d89-f9c2-42d3-a13a-e393730d103d_images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ipo0gihwf",
+      "Integrity": "GTfpS3Ex9NNnGr9in5nYND7DHseb2IPnnOjygnvWrVg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\b6fb5d89-f9c2-42d3-a13a-e393730d103d_images.jfif"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\b7a26cbc-347d-4e69-871a-095c02dde140_defaultpic.jpg",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/b7a26cbc-347d-4e69-871a-095c02dde140_defaultpic#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pngbrrzhyg",
+      "Integrity": "6x9x+OYlKO7Zyjbde7+B3QCqFs4HM9j3gdHQSJV8uZ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\b7a26cbc-347d-4e69-871a-095c02dde140_defaultpic.jpg"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\b87a5a27-60ed-4345-a2c6-1be3a816cb58_images (2).jfif",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/b87a5a27-60ed-4345-a2c6-1be3a816cb58_images (2)#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f90t1nx2m7",
+      "Integrity": "k5OCiMTBNINBXXEYcDn0d4u0pNQsd/d310qonFtGlgs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\b87a5a27-60ed-4345-a2c6-1be3a816cb58_images (2).jfif"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\c8a72bc1-edfc-4203-af53-887c4aa9c10a_501994611-400x300.jpeg",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/c8a72bc1-edfc-4203-af53-887c4aa9c10a_501994611-400x300#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p1zrmksn7x",
+      "Integrity": "0+8qs+BIxj2gRz3DKxtI0rBa2iTgn+oK9k83z3pQlFw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\c8a72bc1-edfc-4203-af53-887c4aa9c10a_501994611-400x300.jpeg"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\d3768c80-8d69-4897-9d5e-f8d37db1a7f6_9.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/d3768c80-8d69-4897-9d5e-f8d37db1a7f6_9#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gugnybz43",
+      "Integrity": "Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\d3768c80-8d69-4897-9d5e-f8d37db1a7f6_9.webp"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\dd4a76e0-3f9c-48da-8a1d-aa0533adc606_modern-house.jpg",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/dd4a76e0-3f9c-48da-8a1d-aa0533adc606_modern-house#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d37n6xyhx8",
+      "Integrity": "VzKDU30BCynU579bE6/eqQ82dq1mqgCLBgRKOpqjFG8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\dd4a76e0-3f9c-48da-8a1d-aa0533adc606_modern-house.jpg"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\defaultpic.jpg",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/defaultpic#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pngbrrzhyg",
+      "Integrity": "6x9x+OYlKO7Zyjbde7+B3QCqFs4HM9j3gdHQSJV8uZ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\defaultpic.jpg"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\e040c182-7eb4-4c11-af8a-7b2b19f2ba78_property_PjgqFaWLz.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/e040c182-7eb4-4c11-af8a-7b2b19f2ba78_property_PjgqFaWLz#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u6b2wnjtdj",
+      "Integrity": "JvFOnnEwoboGuBnruozLEe4XGJDj6IbGeLM50UCqlBI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\e040c182-7eb4-4c11-af8a-7b2b19f2ba78_property_PjgqFaWLz.webp"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\e7658ba2-e514-4c57-ada3-37f87160c941_images.jpeg",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/e7658ba2-e514-4c57-ada3-37f87160c941_images#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yziup731ig",
+      "Integrity": "rmA+uGLUb9Agi8Y3n71DMMMyogGoxagxIuvy5no4jkY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\e7658ba2-e514-4c57-ada3-37f87160c941_images.jpeg"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\f51edac9-1007-4cf6-893f-260b02b69315_images (3).jfif",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/f51edac9-1007-4cf6-893f-260b02b69315_images (3)#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "208p9y7d8u",
+      "Integrity": "Puo65nnF0SLhJqE/A0YP753gaNzXkfVnCd5VRlUs94o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\f51edac9-1007-4cf6-893f-260b02b69315_images (3).jfif"
+    },
+    {
+      "Identity": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\ff504905-7550-417e-b9d3-6ff86c45a572_man1.webp",
+      "SourceId": "RentalSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\",
+      "BasePath": "_content/RentalSystem",
+      "RelativePath": "Pictures/ff504905-7550-417e-b9d3-6ff86c45a572_man1#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h5xi4fm5t6",
+      "Integrity": "VTj7MrRjxilu4l3Wra3E+YRqNLcUP1UfrFknnelyjyw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\ff504905-7550-417e-b9d3-6ff86c45a572_man1.webp"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Pictures/0bd0ed3c-aa58-4117-9e42-597778893126_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\0bd0ed3c-aa58-4117-9e42-597778893126_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W00YkrIx5JTdgFWI4i42rjSLIL7uTzb6T7MS3r4T0h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:29:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W00YkrIx5JTdgFWI4i42rjSLIL7uTzb6T7MS3r4T0h8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/0bd0ed3c-aa58-4117-9e42-597778893126_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.xxynm7dud7.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\0bd0ed3c-aa58-4117-9e42-597778893126_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W00YkrIx5JTdgFWI4i42rjSLIL7uTzb6T7MS3r4T0h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:29:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xxynm7dud7"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/0bd0ed3c-aa58-4117-9e42-597778893126_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W00YkrIx5JTdgFWI4i42rjSLIL7uTzb6T7MS3r4T0h8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/20f5bfc9-c41e-456a-9693-c23dffded547_property_B5azm1LoS.g3mpdzsqm8.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\20f5bfc9-c41e-456a-9693-c23dffded547_property_B5azm1LoS.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HBXi7nGQHYoVHZzZE57VZjyhX6pzcsn9J4eT4+AhKR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:07:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g3mpdzsqm8"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/20f5bfc9-c41e-456a-9693-c23dffded547_property_B5azm1LoS.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HBXi7nGQHYoVHZzZE57VZjyhX6pzcsn9J4eT4+AhKR4="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/20f5bfc9-c41e-456a-9693-c23dffded547_property_B5azm1LoS.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\20f5bfc9-c41e-456a-9693-c23dffded547_property_B5azm1LoS.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HBXi7nGQHYoVHZzZE57VZjyhX6pzcsn9J4eT4+AhKR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:07:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HBXi7nGQHYoVHZzZE57VZjyhX6pzcsn9J4eT4+AhKR4="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/2473e450-80f7-4aa6-99cb-0dc06a3f8d03_cheap-apartment-for-rent-in-phu-my-hung-district-7-hung-vuong-2-building.jpeg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\2473e450-80f7-4aa6-99cb-0dc06a3f8d03_cheap-apartment-for-rent-in-phu-my-hung-district-7-hung-vuong-2-building.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ULKNb6zSZj167NCCSUqEtw03S20TGYY4T3AJDRfJAYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:33:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULKNb6zSZj167NCCSUqEtw03S20TGYY4T3AJDRfJAYg="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/2473e450-80f7-4aa6-99cb-0dc06a3f8d03_cheap-apartment-for-rent-in-phu-my-hung-district-7-hung-vuong-2-building.steprsv3go.jpeg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\2473e450-80f7-4aa6-99cb-0dc06a3f8d03_cheap-apartment-for-rent-in-phu-my-hung-district-7-hung-vuong-2-building.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ULKNb6zSZj167NCCSUqEtw03S20TGYY4T3AJDRfJAYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:33:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "steprsv3go"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/2473e450-80f7-4aa6-99cb-0dc06a3f8d03_cheap-apartment-for-rent-in-phu-my-hung-district-7-hung-vuong-2-building.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULKNb6zSZj167NCCSUqEtw03S20TGYY4T3AJDRfJAYg="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/25ff6e95-9954-43f8-961e-5d79c25b68f2_property_x2Wv4oorq.rl8uexe2m5.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\25ff6e95-9954-43f8-961e-5d79c25b68f2_property_x2Wv4oorq.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8SbLG0NYiqPjYVC4VTuFq3wFyyqjgZFpUvXY97sde5E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:02:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rl8uexe2m5"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/25ff6e95-9954-43f8-961e-5d79c25b68f2_property_x2Wv4oorq.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8SbLG0NYiqPjYVC4VTuFq3wFyyqjgZFpUvXY97sde5E="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/25ff6e95-9954-43f8-961e-5d79c25b68f2_property_x2Wv4oorq.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\25ff6e95-9954-43f8-961e-5d79c25b68f2_property_x2Wv4oorq.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8SbLG0NYiqPjYVC4VTuFq3wFyyqjgZFpUvXY97sde5E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:02:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8SbLG0NYiqPjYVC4VTuFq3wFyyqjgZFpUvXY97sde5E="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/2bb1daf1-1269-401d-ac64-5452c69f987f_9.6gugnybz43.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\2bb1daf1-1269-401d-ac64-5452c69f987f_9.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 17:52:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gugnybz43"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/2bb1daf1-1269-401d-ac64-5452c69f987f_9.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/2bb1daf1-1269-401d-ac64-5452c69f987f_9.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\2bb1daf1-1269-401d-ac64-5452c69f987f_9.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 17:52:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/3d69d8d2-50bb-436c-b511-55122b23fe12_images (6).1lf84x1iu2.jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\3d69d8d2-50bb-436c-b511-55122b23fe12_images (6).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5TjRUKgpZuN3j/oQdWXTm8dluhxfbZLWz2MV045S6VE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:54:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1lf84x1iu2"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/3d69d8d2-50bb-436c-b511-55122b23fe12_images (6).jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5TjRUKgpZuN3j/oQdWXTm8dluhxfbZLWz2MV045S6VE="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/3d69d8d2-50bb-436c-b511-55122b23fe12_images (6).jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\3d69d8d2-50bb-436c-b511-55122b23fe12_images (6).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5TjRUKgpZuN3j/oQdWXTm8dluhxfbZLWz2MV045S6VE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:54:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5TjRUKgpZuN3j/oQdWXTm8dluhxfbZLWz2MV045S6VE="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/4f7721e6-5e27-4cfc-8da7-a862c6cbdbbe_1665288343160.bf9w6tjksg.jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\4f7721e6-5e27-4cfc-8da7-a862c6cbdbbe_1665288343160.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t4G8nn4rC/8uu+4jYJWYItrogVn3CwgPFvKKUj+odCs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bf9w6tjksg"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/4f7721e6-5e27-4cfc-8da7-a862c6cbdbbe_1665288343160.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t4G8nn4rC/8uu+4jYJWYItrogVn3CwgPFvKKUj+odCs="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/4f7721e6-5e27-4cfc-8da7-a862c6cbdbbe_1665288343160.jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\4f7721e6-5e27-4cfc-8da7-a862c6cbdbbe_1665288343160.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t4G8nn4rC/8uu+4jYJWYItrogVn3CwgPFvKKUj+odCs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t4G8nn4rC/8uu+4jYJWYItrogVn3CwgPFvKKUj+odCs="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/573c5861-cf90-4c17-9f6d-f3bc5e8765ec_1665288343160.bf9w6tjksg.jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\573c5861-cf90-4c17-9f6d-f3bc5e8765ec_1665288343160.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t4G8nn4rC/8uu+4jYJWYItrogVn3CwgPFvKKUj+odCs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:41:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bf9w6tjksg"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/573c5861-cf90-4c17-9f6d-f3bc5e8765ec_1665288343160.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t4G8nn4rC/8uu+4jYJWYItrogVn3CwgPFvKKUj+odCs="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/573c5861-cf90-4c17-9f6d-f3bc5e8765ec_1665288343160.jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\573c5861-cf90-4c17-9f6d-f3bc5e8765ec_1665288343160.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t4G8nn4rC/8uu+4jYJWYItrogVn3CwgPFvKKUj+odCs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:41:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t4G8nn4rC/8uu+4jYJWYItrogVn3CwgPFvKKUj+odCs="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/57b3d32a-9b78-4dfb-9463-bddbce75fb38_modern-house.d37n6xyhx8.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\57b3d32a-9b78-4dfb-9463-bddbce75fb38_modern-house.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "362626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VzKDU30BCynU579bE6/eqQ82dq1mqgCLBgRKOpqjFG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:54:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d37n6xyhx8"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/57b3d32a-9b78-4dfb-9463-bddbce75fb38_modern-house.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VzKDU30BCynU579bE6/eqQ82dq1mqgCLBgRKOpqjFG8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/57b3d32a-9b78-4dfb-9463-bddbce75fb38_modern-house.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\57b3d32a-9b78-4dfb-9463-bddbce75fb38_modern-house.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "362626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VzKDU30BCynU579bE6/eqQ82dq1mqgCLBgRKOpqjFG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:54:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VzKDU30BCynU579bE6/eqQ82dq1mqgCLBgRKOpqjFG8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/5954af60-bc44-4af1-9611-e2a7425530db_depositphotos_91206234-stock-photo-business-people-shaking-hands.cx93eo6ppc.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\5954af60-bc44-4af1-9611-e2a7425530db_depositphotos_91206234-stock-photo-business-people-shaking-hands.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AN2Ps3Qi8lSqcYNgJDER/hOiNC06ev32DPa8WcdmGME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 12:02:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cx93eo6ppc"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/5954af60-bc44-4af1-9611-e2a7425530db_depositphotos_91206234-stock-photo-business-people-shaking-hands.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AN2Ps3Qi8lSqcYNgJDER/hOiNC06ev32DPa8WcdmGME="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/5954af60-bc44-4af1-9611-e2a7425530db_depositphotos_91206234-stock-photo-business-people-shaking-hands.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\5954af60-bc44-4af1-9611-e2a7425530db_depositphotos_91206234-stock-photo-business-people-shaking-hands.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AN2Ps3Qi8lSqcYNgJDER/hOiNC06ev32DPa8WcdmGME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 12:02:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AN2Ps3Qi8lSqcYNgJDER/hOiNC06ev32DPa8WcdmGME="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/6533d87e-ed1b-496b-a77f-3b795ea7aa47_skysports-argentina-australia_5986016.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\6533d87e-ed1b-496b-a77f-3b795ea7aa47_skysports-argentina-australia_5986016.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qxrju2W+UZtw4TPZv/ZfLnJvvVgN/wqnSjVKazoYwos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 12:05:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qxrju2W+UZtw4TPZv/ZfLnJvvVgN/wqnSjVKazoYwos="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/6533d87e-ed1b-496b-a77f-3b795ea7aa47_skysports-argentina-australia_5986016.nhvxx3lghr.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\6533d87e-ed1b-496b-a77f-3b795ea7aa47_skysports-argentina-australia_5986016.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qxrju2W+UZtw4TPZv/ZfLnJvvVgN/wqnSjVKazoYwos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 12:05:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nhvxx3lghr"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/6533d87e-ed1b-496b-a77f-3b795ea7aa47_skysports-argentina-australia_5986016.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qxrju2W+UZtw4TPZv/ZfLnJvvVgN/wqnSjVKazoYwos="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/73aaa04f-9044-4072-abef-96b84ae13ab7_original.avif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\73aaa04f-9044-4072-abef-96b84ae13ab7_original.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "334664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yvje0PsIXkL7zWCQCQKVGoOzMsW0y0jCfh/J9Nw3n1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:51:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yvje0PsIXkL7zWCQCQKVGoOzMsW0y0jCfh/J9Nw3n1s="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/73aaa04f-9044-4072-abef-96b84ae13ab7_original.qfwgr5d00y.avif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\73aaa04f-9044-4072-abef-96b84ae13ab7_original.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "334664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yvje0PsIXkL7zWCQCQKVGoOzMsW0y0jCfh/J9Nw3n1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:51:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qfwgr5d00y"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/73aaa04f-9044-4072-abef-96b84ae13ab7_original.avif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yvje0PsIXkL7zWCQCQKVGoOzMsW0y0jCfh/J9Nw3n1s="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/7961dc5d-73b6-4486-8793-cff934d400c9_property_nHshfo6_1.3uhurmu2wf.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\7961dc5d-73b6-4486-8793-cff934d400c9_property_nHshfo6_1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21830"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yyjAfumZN41v0HnS9TsEkaKhShUnBR9xHqDw7qZF7GM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:41:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3uhurmu2wf"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/7961dc5d-73b6-4486-8793-cff934d400c9_property_nHshfo6_1.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yyjAfumZN41v0HnS9TsEkaKhShUnBR9xHqDw7qZF7GM="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/7961dc5d-73b6-4486-8793-cff934d400c9_property_nHshfo6_1.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\7961dc5d-73b6-4486-8793-cff934d400c9_property_nHshfo6_1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21830"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yyjAfumZN41v0HnS9TsEkaKhShUnBR9xHqDw7qZF7GM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:41:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yyjAfumZN41v0HnS9TsEkaKhShUnBR9xHqDw7qZF7GM="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/7ad80db2-06dc-45f1-b310-cff672407287_property_X1cy6_fTt.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\7ad80db2-06dc-45f1-b310-cff672407287_property_X1cy6_fTt.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I4V0FvL3C6CRXOLwvJ2+KMHLXhzdr7JVBsgPA8iyrMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:28:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I4V0FvL3C6CRXOLwvJ2+KMHLXhzdr7JVBsgPA8iyrMk="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/7ad80db2-06dc-45f1-b310-cff672407287_property_X1cy6_fTt.xr3rjjxgqy.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\7ad80db2-06dc-45f1-b310-cff672407287_property_X1cy6_fTt.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I4V0FvL3C6CRXOLwvJ2+KMHLXhzdr7JVBsgPA8iyrMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:28:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xr3rjjxgqy"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/7ad80db2-06dc-45f1-b310-cff672407287_property_X1cy6_fTt.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I4V0FvL3C6CRXOLwvJ2+KMHLXhzdr7JVBsgPA8iyrMk="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/80625250-6324-4d30-bfba-85bed9c834a3_images (2).f90t1nx2m7.jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\80625250-6324-4d30-bfba-85bed9c834a3_images (2).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5OCiMTBNINBXXEYcDn0d4u0pNQsd/d310qonFtGlgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:44:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f90t1nx2m7"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/80625250-6324-4d30-bfba-85bed9c834a3_images (2).jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5OCiMTBNINBXXEYcDn0d4u0pNQsd/d310qonFtGlgs="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/80625250-6324-4d30-bfba-85bed9c834a3_images (2).jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\80625250-6324-4d30-bfba-85bed9c834a3_images (2).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5OCiMTBNINBXXEYcDn0d4u0pNQsd/d310qonFtGlgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:44:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5OCiMTBNINBXXEYcDn0d4u0pNQsd/d310qonFtGlgs="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/836ad207-8980-40f7-bcda-a184fa5558ae_n1.iqhwb5y2sv.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\836ad207-8980-40f7-bcda-a184fa5558ae_n1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yuBqAQ6xibVxsXcbt7gJOvlhsnYHBOgW5mWVUNdMvKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 04:45:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iqhwb5y2sv"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/836ad207-8980-40f7-bcda-a184fa5558ae_n1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yuBqAQ6xibVxsXcbt7gJOvlhsnYHBOgW5mWVUNdMvKY="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/836ad207-8980-40f7-bcda-a184fa5558ae_n1.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\836ad207-8980-40f7-bcda-a184fa5558ae_n1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yuBqAQ6xibVxsXcbt7gJOvlhsnYHBOgW5mWVUNdMvKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 04:45:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yuBqAQ6xibVxsXcbt7gJOvlhsnYHBOgW5mWVUNdMvKY="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/8d4fc72e-1ff9-4733-a6f7-ae46bac0f282_man1.h5xi4fm5t6.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\8d4fc72e-1ff9-4733-a6f7-ae46bac0f282_man1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VTj7MrRjxilu4l3Wra3E+YRqNLcUP1UfrFknnelyjyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 04:46:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5xi4fm5t6"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/8d4fc72e-1ff9-4733-a6f7-ae46bac0f282_man1.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VTj7MrRjxilu4l3Wra3E+YRqNLcUP1UfrFknnelyjyw="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/8d4fc72e-1ff9-4733-a6f7-ae46bac0f282_man1.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\8d4fc72e-1ff9-4733-a6f7-ae46bac0f282_man1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VTj7MrRjxilu4l3Wra3E+YRqNLcUP1UfrFknnelyjyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 04:46:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VTj7MrRjxilu4l3Wra3E+YRqNLcUP1UfrFknnelyjyw="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/9ac5dbca-9e8a-410c-b550-31c8e79aa260_ai-generated-8490532_640.eqohcl32wv.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\9ac5dbca-9e8a-410c-b550-31c8e79aa260_ai-generated-8490532_640.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 11:49:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eqohcl32wv"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/9ac5dbca-9e8a-410c-b550-31c8e79aa260_ai-generated-8490532_640.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/9ac5dbca-9e8a-410c-b550-31c8e79aa260_ai-generated-8490532_640.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\9ac5dbca-9e8a-410c-b550-31c8e79aa260_ai-generated-8490532_640.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 11:49:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/9b4708a8-0758-457d-bc7f-2d2072b3bbd0_ai-generated-8490532_640.eqohcl32wv.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\9b4708a8-0758-457d-bc7f-2d2072b3bbd0_ai-generated-8490532_640.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 11:49:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eqohcl32wv"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/9b4708a8-0758-457d-bc7f-2d2072b3bbd0_ai-generated-8490532_640.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/9b4708a8-0758-457d-bc7f-2d2072b3bbd0_ai-generated-8490532_640.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\9b4708a8-0758-457d-bc7f-2d2072b3bbd0_ai-generated-8490532_640.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 11:49:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/9f2cb138-35c4-42c4-b1b1-9abd626abcb8_ai-generated-8490532_640.eqohcl32wv.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\9f2cb138-35c4-42c4-b1b1-9abd626abcb8_ai-generated-8490532_640.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 11:52:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eqohcl32wv"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/9f2cb138-35c4-42c4-b1b1-9abd626abcb8_ai-generated-8490532_640.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/9f2cb138-35c4-42c4-b1b1-9abd626abcb8_ai-generated-8490532_640.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\9f2cb138-35c4-42c4-b1b1-9abd626abcb8_ai-generated-8490532_640.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 11:52:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dkcl4mX4q5InWwGZQvxdFixRyppaKNQ8SsosI3wmhAI="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/a0e5e1b7-a259-4959-bcac-b1953609fea1_images (1).jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\a0e5e1b7-a259-4959-bcac-b1953609fea1_images (1).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T2R6yBXYv6JwBj5c57j5I+CDIpLIZQLmXTGgdQrw1mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:15:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T2R6yBXYv6JwBj5c57j5I+CDIpLIZQLmXTGgdQrw1mo="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/a0e5e1b7-a259-4959-bcac-b1953609fea1_images (1).r9j7z94o67.jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\a0e5e1b7-a259-4959-bcac-b1953609fea1_images (1).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T2R6yBXYv6JwBj5c57j5I+CDIpLIZQLmXTGgdQrw1mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:15:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r9j7z94o67"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/a0e5e1b7-a259-4959-bcac-b1953609fea1_images (1).jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T2R6yBXYv6JwBj5c57j5I+CDIpLIZQLmXTGgdQrw1mo="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/a35a401d-b71c-4cf6-8274-34aabf23e848_9.6gugnybz43.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\a35a401d-b71c-4cf6-8274-34aabf23e848_9.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 17:49:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gugnybz43"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/a35a401d-b71c-4cf6-8274-34aabf23e848_9.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/a35a401d-b71c-4cf6-8274-34aabf23e848_9.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\a35a401d-b71c-4cf6-8274-34aabf23e848_9.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 17:49:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/b66a0317-b0b2-4ae2-bca0-1ea910a6e352_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\b66a0317-b0b2-4ae2-bca0-1ea910a6e352_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W00YkrIx5JTdgFWI4i42rjSLIL7uTzb6T7MS3r4T0h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W00YkrIx5JTdgFWI4i42rjSLIL7uTzb6T7MS3r4T0h8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/b66a0317-b0b2-4ae2-bca0-1ea910a6e352_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.xxynm7dud7.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\b66a0317-b0b2-4ae2-bca0-1ea910a6e352_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W00YkrIx5JTdgFWI4i42rjSLIL7uTzb6T7MS3r4T0h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xxynm7dud7"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/b66a0317-b0b2-4ae2-bca0-1ea910a6e352_renovated_fully_furnished_verdi_condo_mutiara_shaftsbury_at_cyberjaya_6620001731113507160.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W00YkrIx5JTdgFWI4i42rjSLIL7uTzb6T7MS3r4T0h8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/b6fb5d89-f9c2-42d3-a13a-e393730d103d_images.1ipo0gihwf.jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\b6fb5d89-f9c2-42d3-a13a-e393730d103d_images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GTfpS3Ex9NNnGr9in5nYND7DHseb2IPnnOjygnvWrVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ipo0gihwf"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/b6fb5d89-f9c2-42d3-a13a-e393730d103d_images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GTfpS3Ex9NNnGr9in5nYND7DHseb2IPnnOjygnvWrVg="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/b6fb5d89-f9c2-42d3-a13a-e393730d103d_images.jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\b6fb5d89-f9c2-42d3-a13a-e393730d103d_images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GTfpS3Ex9NNnGr9in5nYND7DHseb2IPnnOjygnvWrVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GTfpS3Ex9NNnGr9in5nYND7DHseb2IPnnOjygnvWrVg="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/b7a26cbc-347d-4e69-871a-095c02dde140_defaultpic.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\b7a26cbc-347d-4e69-871a-095c02dde140_defaultpic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6x9x+OYlKO7Zyjbde7+B3QCqFs4HM9j3gdHQSJV8uZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 10:49:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6x9x+OYlKO7Zyjbde7+B3QCqFs4HM9j3gdHQSJV8uZ8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/b7a26cbc-347d-4e69-871a-095c02dde140_defaultpic.pngbrrzhyg.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\b7a26cbc-347d-4e69-871a-095c02dde140_defaultpic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6x9x+OYlKO7Zyjbde7+B3QCqFs4HM9j3gdHQSJV8uZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 10:49:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pngbrrzhyg"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/b7a26cbc-347d-4e69-871a-095c02dde140_defaultpic.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6x9x+OYlKO7Zyjbde7+B3QCqFs4HM9j3gdHQSJV8uZ8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/b87a5a27-60ed-4345-a2c6-1be3a816cb58_images (2).f90t1nx2m7.jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\b87a5a27-60ed-4345-a2c6-1be3a816cb58_images (2).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5OCiMTBNINBXXEYcDn0d4u0pNQsd/d310qonFtGlgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f90t1nx2m7"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/b87a5a27-60ed-4345-a2c6-1be3a816cb58_images (2).jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5OCiMTBNINBXXEYcDn0d4u0pNQsd/d310qonFtGlgs="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/b87a5a27-60ed-4345-a2c6-1be3a816cb58_images (2).jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\b87a5a27-60ed-4345-a2c6-1be3a816cb58_images (2).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5OCiMTBNINBXXEYcDn0d4u0pNQsd/d310qonFtGlgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:21:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5OCiMTBNINBXXEYcDn0d4u0pNQsd/d310qonFtGlgs="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/c8a72bc1-edfc-4203-af53-887c4aa9c10a_501994611-400x300.jpeg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\c8a72bc1-edfc-4203-af53-887c4aa9c10a_501994611-400x300.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0+8qs+BIxj2gRz3DKxtI0rBa2iTgn+oK9k83z3pQlFw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:43:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0+8qs+BIxj2gRz3DKxtI0rBa2iTgn+oK9k83z3pQlFw="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/c8a72bc1-edfc-4203-af53-887c4aa9c10a_501994611-400x300.p1zrmksn7x.jpeg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\c8a72bc1-edfc-4203-af53-887c4aa9c10a_501994611-400x300.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0+8qs+BIxj2gRz3DKxtI0rBa2iTgn+oK9k83z3pQlFw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:43:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p1zrmksn7x"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/c8a72bc1-edfc-4203-af53-887c4aa9c10a_501994611-400x300.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0+8qs+BIxj2gRz3DKxtI0rBa2iTgn+oK9k83z3pQlFw="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/d3768c80-8d69-4897-9d5e-f8d37db1a7f6_9.6gugnybz43.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\d3768c80-8d69-4897-9d5e-f8d37db1a7f6_9.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 17:49:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gugnybz43"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/d3768c80-8d69-4897-9d5e-f8d37db1a7f6_9.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/d3768c80-8d69-4897-9d5e-f8d37db1a7f6_9.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\d3768c80-8d69-4897-9d5e-f8d37db1a7f6_9.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 17:49:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jq1b0sstYelWEpTAjJX4lUtaSzPHQaR5+TyaGk7MsWk="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/dd4a76e0-3f9c-48da-8a1d-aa0533adc606_modern-house.d37n6xyhx8.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\dd4a76e0-3f9c-48da-8a1d-aa0533adc606_modern-house.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "362626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VzKDU30BCynU579bE6/eqQ82dq1mqgCLBgRKOpqjFG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:53:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d37n6xyhx8"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/dd4a76e0-3f9c-48da-8a1d-aa0533adc606_modern-house.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VzKDU30BCynU579bE6/eqQ82dq1mqgCLBgRKOpqjFG8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/dd4a76e0-3f9c-48da-8a1d-aa0533adc606_modern-house.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\dd4a76e0-3f9c-48da-8a1d-aa0533adc606_modern-house.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "362626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VzKDU30BCynU579bE6/eqQ82dq1mqgCLBgRKOpqjFG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:53:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VzKDU30BCynU579bE6/eqQ82dq1mqgCLBgRKOpqjFG8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/defaultpic.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\defaultpic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6x9x+OYlKO7Zyjbde7+B3QCqFs4HM9j3gdHQSJV8uZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 16:23:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6x9x+OYlKO7Zyjbde7+B3QCqFs4HM9j3gdHQSJV8uZ8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/defaultpic.pngbrrzhyg.jpg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\defaultpic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6x9x+OYlKO7Zyjbde7+B3QCqFs4HM9j3gdHQSJV8uZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 16:23:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pngbrrzhyg"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/defaultpic.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6x9x+OYlKO7Zyjbde7+B3QCqFs4HM9j3gdHQSJV8uZ8="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/e040c182-7eb4-4c11-af8a-7b2b19f2ba78_property_PjgqFaWLz.u6b2wnjtdj.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\e040c182-7eb4-4c11-af8a-7b2b19f2ba78_property_PjgqFaWLz.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JvFOnnEwoboGuBnruozLEe4XGJDj6IbGeLM50UCqlBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6b2wnjtdj"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/e040c182-7eb4-4c11-af8a-7b2b19f2ba78_property_PjgqFaWLz.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JvFOnnEwoboGuBnruozLEe4XGJDj6IbGeLM50UCqlBI="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/e040c182-7eb4-4c11-af8a-7b2b19f2ba78_property_PjgqFaWLz.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\e040c182-7eb4-4c11-af8a-7b2b19f2ba78_property_PjgqFaWLz.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JvFOnnEwoboGuBnruozLEe4XGJDj6IbGeLM50UCqlBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JvFOnnEwoboGuBnruozLEe4XGJDj6IbGeLM50UCqlBI="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/e7658ba2-e514-4c57-ada3-37f87160c941_images.jpeg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\e7658ba2-e514-4c57-ada3-37f87160c941_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rmA+uGLUb9Agi8Y3n71DMMMyogGoxagxIuvy5no4jkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:59:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rmA+uGLUb9Agi8Y3n71DMMMyogGoxagxIuvy5no4jkY="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/e7658ba2-e514-4c57-ada3-37f87160c941_images.yziup731ig.jpeg",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\e7658ba2-e514-4c57-ada3-37f87160c941_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rmA+uGLUb9Agi8Y3n71DMMMyogGoxagxIuvy5no4jkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:59:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yziup731ig"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/e7658ba2-e514-4c57-ada3-37f87160c941_images.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rmA+uGLUb9Agi8Y3n71DMMMyogGoxagxIuvy5no4jkY="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/f51edac9-1007-4cf6-893f-260b02b69315_images (3).208p9y7d8u.jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\f51edac9-1007-4cf6-893f-260b02b69315_images (3).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Puo65nnF0SLhJqE/A0YP753gaNzXkfVnCd5VRlUs94o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:50:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "208p9y7d8u"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/f51edac9-1007-4cf6-893f-260b02b69315_images (3).jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Puo65nnF0SLhJqE/A0YP753gaNzXkfVnCd5VRlUs94o="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/f51edac9-1007-4cf6-893f-260b02b69315_images (3).jfif",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\f51edac9-1007-4cf6-893f-260b02b69315_images (3).jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Puo65nnF0SLhJqE/A0YP753gaNzXkfVnCd5VRlUs94o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 20:50:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Puo65nnF0SLhJqE/A0YP753gaNzXkfVnCd5VRlUs94o="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/ff504905-7550-417e-b9d3-6ff86c45a572_man1.h5xi4fm5t6.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\ff504905-7550-417e-b9d3-6ff86c45a572_man1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VTj7MrRjxilu4l3Wra3E+YRqNLcUP1UfrFknnelyjyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:29:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5xi4fm5t6"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/ff504905-7550-417e-b9d3-6ff86c45a572_man1.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VTj7MrRjxilu4l3Wra3E+YRqNLcUP1UfrFknnelyjyw="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/ff504905-7550-417e-b9d3-6ff86c45a572_man1.webp",
+      "AssetFile": "D:\\GitHubUpload\\RentalSystem\\wwwroot\\Pictures\\ff504905-7550-417e-b9d3-6ff86c45a572_man1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VTj7MrRjxilu4l3Wra3E+YRqNLcUP1UfrFknnelyjyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:29:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VTj7MrRjxilu4l3Wra3E+YRqNLcUP1UfrFknnelyjyw="
+        }
+      ]
+    }
+  ]
+}
